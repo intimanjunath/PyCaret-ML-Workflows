@@ -1,4 +1,4 @@
-** PyCaret-ML-Workflows **
+**PyCaret-ML-Workflows**
 PyCaret Low Code Assignment - Part 2
 
 Introduction
@@ -6,7 +6,7 @@ PyCaret is an open-source, low-code machine learning library in Python that auto
 
 This assignment covers the implementation of various machine learning algorithms using PyCaret, applied across different types of datasets. The purpose is to explore PyCaret’s capabilities in binary classification, multi-class classification, regression, clustering, anomaly detection, association rule mining, and time series forecasting.
 
-#For a detailed explanation and step-by-step walkthrough of the assignment, including dataset exploration and code execution, please refer to the full explanation video on YouTube:
+For a detailed explanation and step-by-step walkthrough of the assignment, including dataset exploration and code execution, please refer to the full explanation video on YouTube:
 1. https://youtu.be/AIYPsU9jcqg 
 2. https://youtu.be/YjDiag_bK3U
 3. https://youtu.be/ayqyFQcRGx0
@@ -27,7 +27,7 @@ The trained model can be saved using the save_model() function for later use. Th
 
 
 Machine Learning Algorithms Implemented
-#Below are the machine learning tasks performed using PyCaret:
+**Below are the machine learning tasks performed using PyCaret:**
 
 Binary Classification : Applied on datasets with two outcome labels, focusing on predicting binary outcomes like 'Yes/No', 'True/False'.
 Multi-class Classification : Implemented for datasets with more than two categories, such as classifying images or text into multiple categories.
@@ -55,7 +55,7 @@ For more details, watch the full explanation video here -> https://drive.google.
 
 
 
-**Second part ->** 
+****Second part ->** **
 Here i perfred two demo with the help of pycaret and Gradio. Where Gradio is an open-source Python library that allows developers to quickly create user-friendly web interfaces for machine learning models, enabling easy interaction and visualization of model predictions.
 1. Wine Quality Prediction Using PyCaret and Gradio -> Gitlink : https://github.com/intimanjunath/PyCaret-ML-Workflows/blob/main/pycaret_gradio_wine.ipynb
 2. Survival Prediction on the Titanic Dataset Using PyCaret and Gradio -> Gitlink : https://github.com/intimanjunath/PyCaret-ML-Workflows/blob/main/Pycaret_Gradio_titanic.ipynb
