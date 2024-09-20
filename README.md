@@ -59,6 +59,7 @@ For more details, watch the full explanation video here -> https://drive.google.
 Here i perfred two demo with the help of pycaret and Gradio. Where Gradio is an open-source Python library that allows developers to quickly create user-friendly web interfaces for machine learning models, enabling easy interaction and visualization of model predictions.
 1. Wine Quality Prediction Using PyCaret and Gradio -> Gitlink : https://github.com/intimanjunath/PyCaret-ML-Workflows/blob/main/pycaret_gradio_wine.ipynb
 2. Survival Prediction on the Titanic Dataset Using PyCaret and Gradio -> Gitlink : https://github.com/intimanjunath/PyCaret-ML-Workflows/blob/main/Pycaret_Gradio_titanic.ipynb
+   
 Here is the YouTube link explaning the above two videos : https://youtu.be/UQE9cu2GcAk 
 
 
