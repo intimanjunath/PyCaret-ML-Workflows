@@ -61,3 +61,4 @@ How to Use :
 
 Conclusion
 PyCaret offers a low-code, easy-to-use interface for machine learning workflows. By automating most of the repetitive tasks, it speeds up the process of model building, evaluation, and deployment. This assignment demonstrates the application of PyCaret across various machine learning tasks using different datasets.
+For more details, watch the full explanation video here.
